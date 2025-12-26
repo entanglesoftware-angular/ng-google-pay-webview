@@ -1,0 +1,32 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.DS_Store
+
+# Build output
+dist/
+coverage/
+
+# TypeScript incremental
+*.tsbuildinfo
+
+# iOS
+ios/DerivedData/
+*.xcuserstate
+*.xcuserdata
+Pods/
+Podfile.lock
+
+# Android
+android/.gradle/
+android/build/
+android/local.properties
+*.iml
+.idea/
+.gradle/
+
+# VSCode
+.vscode/
