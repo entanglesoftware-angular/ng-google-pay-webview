@@ -1,6 +1,6 @@
 {
   "name": "ng-google-pay-webview",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Capacitor plugin that enables Google Pay Web support in Angular apps by fixing iOS WKWebView and Android WebView limitations.",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
